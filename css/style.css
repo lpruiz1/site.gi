@@ -93,7 +93,7 @@ header{
 .bg-home{
     content: "";
     display: flex;
-    background-image: linear-gradient(to bottom, rgba(6,18,30,0.1), #FDEBEB), url(assets/fundo.jpeg);
+    background-image: linear-gradient(to bottom, rgba(6,18,30,0.1), #FDEBEB), url(/assets/fundo.jpeg);
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;

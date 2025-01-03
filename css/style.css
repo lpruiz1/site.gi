@@ -340,3 +340,9 @@ ul{
     border: 2px solid var(--text-color);
     color: black
 } 
+
+.fb-comments {
+    display: block;
+    margin: 0 auto;
+    max-width: 600px;
+}

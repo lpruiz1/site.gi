@@ -42,6 +42,14 @@ header{
     padding: 70px 10%;
 }
 
+#link-1 {
+    color: var(--other-color)
+}
+
+#link-2{
+    color: var(--main-color)
+}
+
 .header-content{
     display: flex;
     align-items: center;
@@ -71,6 +79,11 @@ header{
     font-weight: bold;
     font-size: small;
 }
+
+.header-button1{
+    background-color: transparent;
+}
+
 .header-button:hover{
     background-color: var(--main-color);
     color: var(--other-color);
@@ -291,25 +304,7 @@ header{
     align-items: center;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- #menu{
+#menu{
     font-size: 35px;
     color: var(--text-color);
     z-index: 10001;
